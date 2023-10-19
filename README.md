@@ -18,3 +18,8 @@
     QBCore
 
     QB-TARGET
+
+
+## Discord
+
+https://discord.gg/u4VZw9hkRR
