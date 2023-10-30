@@ -3,7 +3,7 @@
 
 ## Showcase
 
-<video src='[your URL here](https://cdn.discordapp.com/attachments/859515992052989983/1168504422737915925/FREE___Apachi_vending_robbery___QBCore.mp4)' width=180/>
+[<img src="https://cdn.discordapp.com/attachments/859515992052989983/1168504422737915925/FREE___Apachi_vending_robbery___QBCore.mp4" width="50%">](https://youtube.com/watch?v=ao_eqPx2wEA)
 
 ## Depencies
 
