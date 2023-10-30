@@ -1,22 +1,15 @@
-
 # Forked & Modified From - Apachi vending robbery By - GhostmaneX#2077
 
 ## Showcase
 
 [![Watch the video](https://media.discordapp.net/attachments/1131638732513103912/1164519160261386302/image.png)](https://www.youtube.com/watch?v=ao_eqPx2wEA)
 
-## Depencies
 
-    PS-UI
-
-    QBCore
-
-    QB-TARGET
-    
 ## add these into your dispatch resource, in /server/sv_dispatchcodes.lua
 ```
 	["vendrobbery"] =  {displayCode = '10-90', description = "Vending Machine Robbery", radius = 0, recipientList = {'police'}, blipSprite = 162, blipColour = 0, blipScale = 0.9, blipLength = 2, sound = "Lose_1st", sound2 = "GTAO_FM_Events_Soundset", offset = "false"},
 ```
+
 
 ## add these into your dispatch resource, in /client/cl_events.lua
 ```
