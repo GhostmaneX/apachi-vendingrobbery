@@ -3,7 +3,7 @@
 
 ## Showcase
 
-[![Watch the video](https://cdn.discordapp.com/attachments/859515992052989983/1168504422737915925/FREE___Apachi_vending_robbery___QBCore.mp4?ex=6552018c&is=653f8c8c&hm=2b779eef977e262654312a4b4a2c81151a9753a6ac3d65250901da7e52819746&)]
+[![Watch the video](https://cdn.discordapp.com/attachments/859515992052989983/1168504422737915925/FREE___Apachi_vending_robbery___QBCore.mp4)]
 
 ## Depencies
 
